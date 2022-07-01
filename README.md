@@ -1,2 +1,1 @@
-# melonama-
-mini project
+# melonama-diagnosis
