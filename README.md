@@ -1,1 +1,1 @@
-# melonama-diagnosis
+# melanoma-diagnosis
